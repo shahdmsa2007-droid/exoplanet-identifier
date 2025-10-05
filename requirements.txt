@@ -1,13 +1,5 @@
 streamlit
 pandas
 numpy
-matplotlib
 scikit-learn
-seaborn
-plotly
-tensorflow
-keras
-joblib
-xgboost
-lightgbm
-catboost
+matplotlib
